@@ -1,0 +1,16 @@
+{
+  "name": "package-wgs-bootcamp-4-p7",
+  "version": "1.0.0",
+  "description": "Pertemuan ke 7, membuat dan menggunakan Local Module",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathanure",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.7.0",
+    "yargs": "^17.6.2"
+  }
+}
